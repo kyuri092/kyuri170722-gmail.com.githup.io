@@ -1,0 +1,23 @@
+﻿body
+{font-family: Avenir Next;
+}
+h1 {
+	background-color: #808080;
+	height: 38px;
+	width: 138px;
+    font-size: 27px;
+	padding: 10px;
+	
+}
+span {
+	color: red;
+}
+
+.kyuri {
+	float: right;
+	font-size: 30px;
+	padding-bottom: 10px;
+	color: blue;
+	background-color: green;
+	padding: 10px;
+}
